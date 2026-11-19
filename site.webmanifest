@@ -1,0 +1,25 @@
+{
+  "name": "Joe's Roofing & Building",
+  "short_name": "Joe's Roofing",
+  "description": "Local roofing and building across North West England.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "en-GB",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0D3B66",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "images/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

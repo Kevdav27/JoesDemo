@@ -1,0 +1,38 @@
+@media (max-width: 1100px) {
+  .nav-toggle {
+    display: none;
+  }
+
+  .header-inner {
+    flex-wrap: wrap;
+  }
+
+  .site-nav {
+    position: static;
+    width: 100%;
+    max-height: none;
+    padding: 0 0 14px;
+    border: 0;
+    box-shadow: none;
+    clip-path: none;
+    visibility: visible;
+  }
+
+  .nav-list > li {
+    opacity: 1;
+    transform: none;
+  }
+
+  .sub-toggle {
+    display: none;
+  }
+
+  .has-sub > .sub-menu {
+    display: block;
+  }
+}
+
+.bas-panel[hidden] {
+  display: block;
+  margin-bottom: 28px;
+}
